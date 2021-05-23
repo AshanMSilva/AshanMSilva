@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Ashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanMSilva&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanMSilva&langs_count=6&layout=compact)](https://github.com/AshanMSilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanMSilva&langs_count=6&layout=compact)]
 
 
