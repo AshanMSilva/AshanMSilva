@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Ashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanMSilva&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanMSilva&langs_count=6&layout=compact&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=AshanMSilva&title=Commit,MultiLanguage,Repositories)
+
+![Ashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanMSilva&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanMSilva&langs_count=6&count_private=true)
 
 
