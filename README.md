@@ -1,13 +1,5 @@
 ### Hi there, I'm Ashan👋
 
-**I'm good at,**
-    - ***AngularJs
-    - Flutter
-    - Java
-    - TypeScript
-    - JavaScript
-    - Dart
-    - Python***
 <!--
 **AshanMSilva/AshanMSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
