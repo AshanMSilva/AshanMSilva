@@ -6,7 +6,7 @@
 🤝 I’m looking for help with DevOps<br>
 🌱 I’m currently learning more about .Net Framework<br>
 💬 Ask me about anything<br>
-📫 How to reach me: [My Web](https://ashan-m-silva.web.app/)<br>
+📫 How to reach me: [My Web](https://ashanmsilva.com/)<br>
 😄 Pronouns: he/him<br>
 
 ### 🌐 Socials:
